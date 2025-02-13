@@ -90,7 +90,6 @@ https://git-scm.com/downloads
 
 ## ✍️ Autor
 
-**[Tu Nombre]**, Estudiante de Desarrollo de Software.
+**Jaziel Benitez Alavez**, Estudiante de Desarrollo de Software.
 
 - **GitHub**: [JazLuv](https://github.com/JazLuv)
-
